@@ -29,7 +29,7 @@ Edit your bot file:
 - Fill in your `author_name` and `author_netid`
 - Write your AI logic in the `get_move()` method
 
-**IMPORTANT: Keep the class name as `Bot`!**
+**IMPORTANT: Change the class name as `your snu net id`!**
 
 ### 4. Test Your Bot
 
@@ -64,12 +64,11 @@ Create a **Pull Request** on GitHub!
 ### DO:
 - Submit exactly ONE bot file in `submissions/`
 - Update the import in `main.py` to your bot
-- Keep the class name as `Bot`
+- Change the class name to `your snu net id`
 - Test locally before submitting
 - Use only pingv4 library and Python standard library
 
 ### DON'T:
-- Change the class name from `Bot`
 - Modify other files
 - Use external libraries or network calls
 - Submit multiple bots in one PR
