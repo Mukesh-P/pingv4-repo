@@ -125,6 +125,3 @@ game.run()
 - **Minimax Algorithm:** [Wikipedia](https://en.wikipedia.org/wiki/Minimax)
 
 ---
----
-
-## 📜 LiceThis competition repo is open source. The pingv4 library is licensed under MIT.
